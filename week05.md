@@ -14,8 +14,8 @@
 
 * Taking apart and hacking electronic junk. 
 * Install [Arduino free software](https://www.arduino.cc/en/Main/Software) on computer
-* Bring an old toy or piece of electronic junk if possible. *Good junk:* mechanical toys (RC cars, Furby, etc.), big mouth bass, roomba, walkman, discman, polaroid camera, old pagers, hair dryers.
-*Bad Junk* (don't bring): Blenders, old Smartphones, large items such as TVs and A/C units, items with Lithium batteries, anything with an extremely large current draw. Anything made before the 1980s. 
+* Bring an old toy or piece of electronic junk if possible. **Good junk:** mechanical toys (RC cars, Furby, etc.), big mouth bass, roomba, walkman, discman, polaroid camera, old pagers, hair dryers.
+**Bad Junk** (don't bring): Blenders, old Smartphones, large items such as TVs and A/C units, items with Lithium batteries, anything with an extremely large current draw. Anything made before the 1980s. 
 
 
 #### /Assignments for Next Week/
