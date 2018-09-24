@@ -11,7 +11,7 @@
 * Harrison- https://wp.nyu.edu/harrisonjqh/
 * Zheng yu- https://www.tumblr.com/blog/z-h-eng
 * Kim- https://wp.nyu.edu/ideation_and_prototyping1
-* Aadi- http://www.aadi.tv/
+* Aadi- https://reveriefilm.tumblr.com/ 
 * Mayda- https://wp.nyu.edu/prototyping/
 * Claudia- https://cloudmadness.tumblr.com/
 * Jenny- https://junweishi.tumblr.com/
