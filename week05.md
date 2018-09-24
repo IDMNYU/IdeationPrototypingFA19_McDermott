@@ -6,8 +6,7 @@
 
 #### /SUBMIT/
 
-* Reading responses for this week's REQ READING:[The Toaster Project](https://drive.google.com/file/d/1b2rRTQ0PP6on-Dh94D24ZS33ndu9DC0F/view?usp=sharing]
-Page 13-43, Preface and Introduction. 
+* Reading responses for this week's REQ READING:(The Toaster Project)[https://drive.google.com/file/d/1b2rRTQ0PP6on-Dh94D24ZS33ndu9DC0F/view?usp=sharing] Page 13-43, Preface and Introduction. 
 * Discussion of The Toaster Project
 
 
