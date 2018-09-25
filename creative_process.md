@@ -31,7 +31,7 @@ The process presentation will reveal the discoveries you made about your subject
 * Jonathan Ive
 * Frida Kahlo - Julia 
 * Yayoi Kusama - Harrison
-* Hideo Kojima
+* Hideo Kojima - Jenny 
 * Koji Kondo- Alejandra 
 * Steve Jobs - Calvin 
 * Sal Khan \(Khan Academy\)
