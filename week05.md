@@ -23,4 +23,4 @@
 
 * REQ READING: [Ideo Human Centered Design](https://drive.google.com/file/d/187hYjorIpv2Xf7bAYMwlq7lHGVv9USq3/view?usp=sharing) More info here: http://www.designkit.org/
 * Bring in sketches, brainstorms, ideas for Project 02, City as Site  
-* Keep your website updated with your constant input/output 
+* MAKE A DETAILED **SCHEDULE** for your constant input/output. Make a plan for the rest of the semester. What do you hope to achieve and what's your plan of action? "For example, by the end I hope to have 12 drawings, so I will make a drawing a week." If your constant output is a larger project, break your project into chunks. 
