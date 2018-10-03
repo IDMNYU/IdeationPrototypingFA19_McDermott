@@ -2,6 +2,7 @@
 
 #### /PRESENT/
 
+* Remaining Project 01 presentations: Aadi, Kyle, Val
 * [Assign 05](lasercut.md) 
 
 #### /SUBMIT/
