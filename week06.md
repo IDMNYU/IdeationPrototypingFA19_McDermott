@@ -8,6 +8,7 @@
 #### /SUBMIT/
 
 * Reading responses for this week's REQ READING: [Ideo Human Centered Design](https://drive.google.com/file/d/187hYjorIpv2Xf7bAYMwlq7lHGVv9USq3/view?usp=sharing) More info here: http://www.designkit.org/
+* I recommend focusing on the "methods" section, that will be the most helpful to this project, but any section you want to respond to is fine. 
 * Discuss Ideo reading
 
 #### /LAB/
