@@ -2,7 +2,7 @@
 
 ### Part 01: 
 Identify an area or aspect of infrastructure or public space in the city to research. 
-Develop and implement a unique research strategy to gain information about your site. Document this process
+Develop and implement a unique research strategy to gain information about your site. Document this process.
 Examples of research strategies may include:
 * Life drawing
 * Photo/video documentation
