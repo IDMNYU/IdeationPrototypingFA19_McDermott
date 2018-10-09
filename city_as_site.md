@@ -18,7 +18,7 @@ You may also reference artistic research projects such as Miranda July's [Learni
 Produce a design for the site which builds on an existing landmark or infrastructure, modifying it, or allowing it to have a double function. 
 (For example: stoplights, fire hydrants, statues, parking garages). 
 Projects can be political, interventionist, problem-solving, or playful. 
-Final project may take the form of a rendering, model, object, photo or video, (documentation or speculative). 
+
 Document your process well, and be prepared to present it, along with your finished work, in class.
 
 Examples/Inspiration:
