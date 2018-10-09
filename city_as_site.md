@@ -19,7 +19,7 @@ Produce a design for the site which builds on an existing landmark or infrastruc
 (For example: stoplights, fire hydrants, statues, parking garages). 
 Projects can be political, interventionist, problem-solving, or playful. 
 
-Document your process well, and be prepared to present it, along with your finished work, in class.
+Your project can include a model, photo, video, app etc., but **it must include a physical mock-up of some kind.** Document your process well, and be prepared to present it, along with your finished work, in class.
 
 Examples/Inspiration:
 * [Michael Rakowitz paraSITE](http://www.michaelrakowitz.com/parasite/)
