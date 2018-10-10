@@ -13,6 +13,7 @@
 
 #### /LAB/
 
+* Updated Design Research Slides: https://docs.google.com/presentation/d/1-kZOg-LWfYuki_4Uls9NHIGsNzR6PNITiMiiBMnLWC8/edit?usp=sharing
 * Make groups for Project 02 and begin work on first part of the project
 * Possible make teams for Assignment 6, classmate portrait, this may get pushed. 
 
