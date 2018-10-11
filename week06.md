@@ -19,5 +19,7 @@
 
 #### /Assignments for Next Week/
 
-* Be prepared to present your progress, as a group on Part 1 of Project 02: [City as Site](city_as_site.md)
+* Be prepared to present your research progress, as a group on Part 1 of Project 02: [City as Site](city_as_site.md)
 * Keep your website updated with your constant input/output 
+* submit your Reading Response if you did not do so already for [Ideo Human Centered Design](https://drive.google.com/file/d/187hYjorIpv2Xf7bAYMwlq7lHGVv9USq3/view?usp=sharing) More info here: http://www.designkit.org/
+I recommend focusing on the "methods" chapter. 
