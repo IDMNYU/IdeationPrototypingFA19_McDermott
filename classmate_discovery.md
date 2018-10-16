@@ -1,15 +1,9 @@
-# Classmate Discovery / Input Portrait
+# I. Classmate Discovery: Due 10/24
 
-Create a visual map that represents a classmates’ background, training, discipline, and the personal circumstances that led them to where they are today—and indicates where they are going. You'll need to draw on the material that your classmate has posted to their process website so far, including their three personal objects, and day in the life assignment. Take a look at their social media as well. Supplement this material with an interview, questionnaire, or survey (in class). When you can, show cross-references between these different sources. The final form or defining metaphor of this assignment is up to you. 
+Step 1: Pair up with someone in the class whom you haven't worked with before.
 
-You pick the form or metaphor (NOT limited to): 
-* a subway map, 
-* a territory map, 
-* a thematic network, 
-* user journey map, 
-* a table of contents of a book, 
-* an index in the back of a book,
-* a menu on a webpage, 
-* a tree, 
-* etc
+Step 2: Interview your partner. Find out about their background, training, discipline, and the personal circumstances that led them to where they are today—and indicates where they are going. Look at the material that your classmate has posted to their process website so far, including their three personal objects, and day in the life assignment. Take a look at their social media as well. Make a visual map or infographic of their interests and influences.
 
+# II. Collaborative Constant Input-Output: Due 11/07  
+
+Step 3: Your partner has also made a map/portrait of you. Look at your maps together. Look for points of commonality or difference. Put your normal Constant Input on hold this week, and produce a collaborative post together.   
