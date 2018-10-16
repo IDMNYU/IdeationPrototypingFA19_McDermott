@@ -10,7 +10,7 @@
 
 #### /Assignments for Next Week/
 
-* REQ READING: due November 07: Speculative Everything, 200 word response to NYU classes.
+* REQ READING: due November 07: Speculative Everything, Chapters 1 and 2 (Pages 1-31). 200 word response to NYU classes.
 * REQ VIEWING: due November 07, choose a film from the list to watch and write a 200 word response on NYU Classes: 
   * Minority	Report (2002)
   * Downsizing (2017)
