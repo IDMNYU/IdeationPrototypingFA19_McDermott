@@ -7,7 +7,7 @@
 #### /LAB/
 
 * Discuss reading responses for IDEO reading
-* Make groups for Assignment 06 Classmate Portrait and being research/interviews.  
+* Make groups for [Assignment 06 Classmate Discovery](classmate_discovery.md) and begin research/interviews.  
 
 #### /Assignments for Next Week/
 
