@@ -7,4 +7,5 @@ Withdraw deadline is November 5th
 
 * Pictures of sketchbook online
 * Contant Output update
-* All assignments documented and online 
+* All assignments documented and online, including assignment 06: Classmate Discovery map. 
+
