@@ -13,4 +13,4 @@
 
 * Continue work on **Project 02, [City as Site](city_as_site.md)** Part 2 due 10/31 
 * Keep your website updated with your constant input/output; prepare for your midterm check-in  
-* Bring in your map / visualization created of your partner for Assign 06: Classmate Discovery 
+* Put your map / visualization created for Assign 06: Classmate Discovery on your website 
