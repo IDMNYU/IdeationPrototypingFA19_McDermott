@@ -14,4 +14,4 @@
 * Continue work on **Project 02, [City as Site](city_as_site.md)** Part 2 due 10/31 
     * Bring supplies to class so you can work during class time, we'll take turns doing individual meetings  
 * Keep your website updated with your constant input/output; prepare for your midterm check-in  
-* Put your map / visualization created for Assign 06: Classmate Discovery on your website 
+* Develop your interview questions (or game or method) for Assign 06: Classmate Discovery. Post your questions on your website 
