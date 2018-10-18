@@ -6,7 +6,7 @@
 
 #### / LAB/ 
 
-* Pending time, convene with your partner for [Assignment 06 Classmate Discovery](classmate_discovery.md) and make a plan for part II of the assignment, collaborative constant output
+* Pending time, convene with your partner for [Assignment 06 Classmate Discovery](classmate_discovery.md) and make a plan for part III of the assignment, collaborative constant output
 
 #### /Assignments for Next Week/
 
