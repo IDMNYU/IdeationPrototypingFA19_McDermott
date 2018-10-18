@@ -1,4 +1,4 @@
-# I. Classmate Discovery: Due 10/24
+# I. Classmate Discovery: Due 10/31
 
 Step 1: Pair up with someone in the class whom you haven't worked with before.
 
