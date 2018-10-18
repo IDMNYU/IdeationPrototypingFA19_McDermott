@@ -7,12 +7,21 @@ Withdraw deadline is November 5th
 
 * Pictures of sketchbook online
 * Contant Output update
-* All assignments documented and online, including assignment 06: Classmate Discovery map (part 1). 
+* All assignments documented and online, including Assignment 06: Classmate Discovery Questions (part 1). 
 
+#### Open Work time Project 02
+
+* Bring supplies to start your work 
+
+#### Classmate Discovery Interviews
+
+* Have your questions prepared to conduct your interview for classmate interview  
 
 #### /Assignments for Next Week/
 
 * Project 02 Final Presentations. We can possibly visit sites directly if they are nearby. You can also show video, photos, and the object you have made, if it is no longer in the site.   
+
+* Make your visualization of you classmate interview for Assign 06 (part 02) 
 
 * REQ VIEWING, Not due until November 07, but if you are in the moood to watch something spooky/ sci-fi, choose a film from the list to watch and write a 200 word response to: 
   * Minority	Report (2002)
