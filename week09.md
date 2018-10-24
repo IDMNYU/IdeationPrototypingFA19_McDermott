@@ -10,7 +10,7 @@
 
 #### /Assignments for Next Week/
 
-* Complete Part II of [Assignment 06 Classmate Discovery](classmate_discovery.md), collaborative constant input/output
+* Complete Part III of [Assignment 06 Classmate Discovery](classmate_discovery.md), collaborative constant input/output
 * REQ READING: due November 07: Speculative Everything, Chapters 1 and 2 (Pages 1-31). 200 word response to NYU classes.
   * You can access the reading as [a PDF here](https://drive.google.com/open?id=1UgeACzw1-rFpvam_mqtDrqICy6HSVydA)
   * You can also read as an [Ebook through the library](https://getit.library.nyu.edu/go/9463476) (log in) 
