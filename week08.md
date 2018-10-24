@@ -28,7 +28,7 @@ Withdraw deadline is November 5th
 
 * Make your visualization/map of your classmate interview for Assign 06 (part 02). In addition to the interview, get information from their website and online presence. 
 
-* REQ VIEWING, Not due until November 07, but if you are in the moood to watch something spooky/ sci-fi, choose a film from the list to watch and write a 200 word response to: 
+* REQ VIEWING, Not due until November 14, but if you are in the moood to watch something spooky/ sci-fi, choose a film from the list to watch and write a 200 word response to: 
   * Minority	Report (2002)
   * Downsizing (2017)
   * Her (2013)
