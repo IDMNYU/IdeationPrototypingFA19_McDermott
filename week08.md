@@ -19,6 +19,9 @@ Withdraw deadline is November 5th
 
 * Have your questions prepared to conduct your interview for classmate interview  
 
+
+
+
 #### /Assignments for Next Week/
 
 * Project 02 Final Presentations. We can possibly visit sites directly if they are nearby. You can also show video, photos, and the object you have made, if it is no longer in the site.   
