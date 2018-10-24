@@ -18,6 +18,7 @@
 #### /Assignments for Next Week/
 
 * Prepare for next week's in-class video lab 
+* continue work on Constant Output 
 * REQ VIEWING: due November 14, choose a film from the list to watch and write a 200 word response on NYU Classes: 
   * Minority	Report (2002)
   * Downsizing (2017)
