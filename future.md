@@ -2,9 +2,9 @@
 
 _This project can be done as a team or as an individual._
 
-First establish the conditions of the future utopia/dystopia in which your object will exist, You will be working within the limitations you have set. What does your imagined future look, sound, and feel like? (your framing **story**)
+First establish the conditions of the future utopia/dystopia in which your object will exist, You will be working within the limitations you have set. What does your imagined future look, sound, and feel like? (your framing **story**) Create an image or object that tells us something about that society. 
 
-Then, develop a design for an object/app/technology which will be useful in this future context. Your final project may take the form of a rendering, model, object, photo or video, (documentation or speculative). 
+Then, develop a design for an object/app/technology which will be useful in this future context. Your final project may take the form of an object or video. 
 
 I suggest brainstorming one or more of the following themes to get you started, but you will need to eventually drill down from these very broad themes to specificity:
 
