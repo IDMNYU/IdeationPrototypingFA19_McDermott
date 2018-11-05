@@ -17,7 +17,7 @@
 
 #### /Assignments for Next Week/
 
-* Prepare for next week's in-class video lab 
+* Prepare for next week's in-class video lab, bring supplies / props  
 * continue work on Constant Output 
 * begin thinking about final project: [Future Utopia/Dystopia](future.md)
 * REQ VIEWING: due November 14, choose a film from the list to watch and write a 200 word response on NYU Classes: 
