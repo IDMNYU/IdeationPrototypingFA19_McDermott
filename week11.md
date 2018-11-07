@@ -10,7 +10,7 @@
 * Speculative Design Video Exercise
   * Choose a film from the list to map a scene from
   * Choose a utopia/ dystopia framework for your reality. (complete Spec D exercise from last week again if necessary)
-  * Story board a film that tells your story in a similar style to the movie you chose
+  * Story board a film that tells your story in a similar style to the movie you chose. 
   * Edit if time allows
 
 #### /Assignments for Next Class/
