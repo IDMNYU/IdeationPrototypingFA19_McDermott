@@ -13,7 +13,7 @@
 #### / LAB/ 
 
 * Speculative Design Overview
-* Speculative Design Thought Experiment Exercise  
+* Speculative Design Thought Experiment Exercise [Link to instructions](https://docs.google.com/document/d/1Cmp9fCJfs7IruMmfCCSGjnQCDOE6C3bD5BO93v6DU9g/edit?usp=sharing) 
 
 #### /Assignments for Next Week/
 
