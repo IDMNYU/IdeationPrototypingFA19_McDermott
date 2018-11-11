@@ -1,9 +1,15 @@
 # Week 11, 11/14
 
 
+####/ FINAL SHOW PLANNING/
+
+* Visit from our curator Jacquelyn, fill out the survey 
+
+
 #### / Reading Discussion/
 
 * Discuss required viewing: sci-fi movies  
+
 
 #### / LAB/ 
 
