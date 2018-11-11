@@ -5,4 +5,4 @@ If you have an event in mind, and aren't sure if it will satisfy the course requ
 
 # Prepare for Final Exhibition
 
-Because the exhibition requirement was added late, I have waived the attend a lecture assignment. Instead, you will be graded on your compliance with our curator's request for your exhibition materials / files to be delivered to her by December 11th. 
+Because the exhibition requirement was added late, I have waived the attend a lecture assignment. Instead, you will be graded on your compliance with our curator's request for your exhibition materials / files, to be delivered to her by December 11th. 
