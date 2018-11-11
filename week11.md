@@ -4,7 +4,7 @@
 #### / FINAL SHOW PLANNING/
 
 * Visit from our curator Jacquelyn, fill out the survey: https://goo.gl/forms/7hmWK2kuvJ6OTzFF3
-
+* See also (assignment 07)[attend_a_lecture.md] has changed 
 
 #### / Reading Discussion/
 
