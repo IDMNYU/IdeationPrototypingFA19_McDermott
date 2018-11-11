@@ -1,9 +1,9 @@
 # Week 11, 11/14
 
 
-####/ FINAL SHOW PLANNING/
+#### / FINAL SHOW PLANNING/
 
-* Visit from our curator Jacquelyn, fill out the survey 
+* Visit from our curator Jacquelyn, fill out the survey: https://goo.gl/forms/7hmWK2kuvJ6OTzFF3
 
 
 #### / Reading Discussion/
