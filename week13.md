@@ -1,6 +1,6 @@
 # Week 13, 11/28 
 
-####/ PRESENT/
+#### / PRESENT/
 * Midpoint research, sketches, mock-ups for the final project: [Future Utopia/Dystopia](future.md) 
 * Be prepared to explain the framework of your utopia/dystopi
 
