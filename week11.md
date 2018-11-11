@@ -10,6 +10,9 @@
 
 * Discuss required viewing: sci-fi movies  
 
+#### / Final Project Discussion/ 
+
+* Start thinking about what you want to do for the [final project](future.md) if you haven't yet. Do you want to work alone or in a group? Do you have an idea for a product/artwork/invention, and you need to build a scenario around it? Or do you want to start by thinking of a scenario/future that you want to design within. The final form is video, but you can make a video of an object, if you plan to make an object. The format is meant to be flexible, check the references at the end of the assignment page. 
 
 #### / LAB/ 
 
