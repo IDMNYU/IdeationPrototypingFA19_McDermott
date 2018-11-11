@@ -36,6 +36,6 @@ Turn in a short (500 words) write-up explaining your process and reflecting on y
 
 ### Reference Projects/Videos:
 
-One that leans toward artistic: https://vimeo.com/202106875
-One that leans toward research based: https://www.fastcompany.com/90177041/the-toilet-of-the-future-is-made-of-mushrooms
-One that is a bit of a mixture: https://vimeo.com/219922957 
+* One that leans toward artistic: https://vimeo.com/202106875
+* One that leans toward research based: https://www.fastcompany.com/90177041/the-toilet-of-the-future-is-made-of-mushrooms
+* One that is a bit of a mixture: https://vimeo.com/219922957 
