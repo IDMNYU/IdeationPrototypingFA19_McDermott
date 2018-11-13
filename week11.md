@@ -21,6 +21,7 @@ Start thinking about what you want to do for the [final project](future.md) if y
 #### / LAB/ 
 
 * Speculative Design Video Exercise
+  * Slides: [link](https://docs.google.com/presentation/d/13qOxrtrMpmYPSZ4qcbl82TZd2EHHyaBk7luHYXuyA14/edit?usp=sharing)
   * Choose a film from the list to map a scene from
   * Choose a utopia/ dystopia framework for your reality. (complete Spec D exercise from last week again if necessary)
   * Story board a film that tells your story in a similar style to the movie you chose. 
