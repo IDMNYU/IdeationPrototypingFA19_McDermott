@@ -5,7 +5,7 @@
 
 * Midpoint research, sketches, mock-ups for the final project: [Future Utopia/Dystopia](future.md) 
 * Be prepared to explain the framework of your utopia/dystopia
-*if you are in a team, be prepared to clearly explain what each member of the group will contribute.*
+* *if you are in a team, be prepared to clearly explain what each member of the group will contribute.*
 
 #### / Assignments for Next Week/
 * Continue work on final project, due: 12/12
