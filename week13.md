@@ -10,7 +10,8 @@
 #### / LAB/
 (time pending)
 * Paper maché artifacts 
-
+  good reference: http://manningkrull.com/manningmakesstuff/
+  
 #### / Assignments for Next Week/
 * Continue work on final project, due: 12/12
 * Continue work on constant output, presentations 12/05
