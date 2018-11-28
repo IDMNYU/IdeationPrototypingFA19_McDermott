@@ -12,7 +12,7 @@
 * Paper maché artifacts 
   good reference: http://manningkrull.com/manningmakesstuff/
 * Option 1: make something that could be useful in your video as a prop
-* Option 2: make a version of a common object, that is englarged, or an abnormal color. eg [giant cupcake](http://manningkrull.com/manningmakesstuff/paper-mache-cupcake-sculpture/)and [Jeff Koons Ballon dog](https://static01.nyt.com/images/2011/01/20/arts/jp-suit/jp-suit-jumbo.jpg) 
+* Option 2: make a version of a common object, that is englarged, or an abnormal color. eg [giant cupcake](http://manningkrull.com/manningmakesstuff/paper-mache-cupcake-sculpture/) and [Jeff Koons Ballon dog](https://static01.nyt.com/images/2011/01/20/arts/jp-suit/jp-suit-jumbo.jpg) 
   
 #### / Assignments for Next Week/
 * Continue work on final project, due: 12/12
