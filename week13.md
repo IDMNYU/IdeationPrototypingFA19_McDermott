@@ -18,4 +18,5 @@
 #### / Assignments for Next Week/
 * Continue work on final project, due: 12/12
 * Continue work on constant output, presentations 12/05
+* If you are printing work for the showcase, also be prepared to show a draft of your poster. 12/05
 * Prepare work for exhibition. 
