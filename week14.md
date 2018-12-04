@@ -12,4 +12,4 @@
 
 #### / Assignments for Next Week/
 * Continue work on final project, due: 12/12
-* Prepare work for exhibition. 
+* Prepare work for exhibition. Put files in Drive folder by 12/09 
