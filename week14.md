@@ -9,6 +9,9 @@
 
 * Summary and synthesis of all we've covered! [Link to slides](https://docs.google.com/presentation/d/1pVTRs231v0WeKoFWdtKEiw-QbzbgZV_SUSU9MA6ZOHI/edit?usp=sharing)
 
+#### / REFLECT/
+
+* Course evaluations if time... you should have received an email. 
 
 #### / Assignments for Next Week/
 * Continue work on final project, due: 12/12
