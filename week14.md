@@ -3,7 +3,9 @@
 #### / PRESENT/
 
 * Constant Output/Input final presentation. Give us an overview of what you accomplished this semester. 
-* If you are printing work for the showcase, also be prepared to show a draft of your poster. 
+* If you are printing work for the showcase, also be prepared to show a draft of your poster.
+* Video experiments from before the break
+
 
 #### / LECTURE/
 
