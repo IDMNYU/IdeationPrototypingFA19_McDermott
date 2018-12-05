@@ -13,7 +13,12 @@
 
 * Course evaluations if time... you should have received an email. 
 
+#### / INSPIRATION /
+
+* Check out the senior project show case THIS friday, [link to flyer](https://drive.google.com/file/d/1GvTHZh_zBUwJjuIH6ckfXJBi69Obiydo/view?usp=sharing)
+
 #### / Assignments for Next Week/
 * Continue work on final project, due: 12/12
 * Prepare work for exhibition. Put files in Drive folder by 12/09 
 * https://drive.google.com/drive/folders/1jIF1BFIGRE9PUAvOZ5nqtNPA6LaB98tU?usp=sharing 
+
