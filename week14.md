@@ -18,8 +18,8 @@
 #### / INSPIRATION /
 
 * Check out the senior project show case THIS friday, [link to flyer](https://drive.google.com/file/d/1GvTHZh_zBUwJjuIH6ckfXJBi69Obiydo/view?usp=sharing)
-* Plus our flier!![link]
-(https://drive.google.com/file/d/1TUfw8AzuXJEZF-gXRvKm6WKlZqpUcijX/view?usp=sharing)
+* CORRECTED LOCATION FLIER!![link]
+(https://drive.google.com/file/d/1VZyRoOQOC5X_X2S43eyDcjbDiduoSbwf/view?usp=sharing)
 
 #### / Assignments for Next Week/
 * Continue work on final project, due: 12/12
