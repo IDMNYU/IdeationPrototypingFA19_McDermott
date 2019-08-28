@@ -1,4 +1,4 @@
-# Future Dystopia / Utopia Project
+# Project 3: Designing “Seatbelts” for Technology 
 
 _Individual or Groups of 2_
 
