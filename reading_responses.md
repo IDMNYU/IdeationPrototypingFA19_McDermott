@@ -5,6 +5,5 @@ Rather than summarizing the text, reading responses should reflect your reaction
 
 ### Turning them in
 
-* Turn in reading responses on NYU Classes at least 1 hour before class, and/or bring a hardcopy to class. 
-* ___On weeks in which two readings are assigned, two responses are required.___ 
-* Your reading response grade is part of your participation grade, which is 10% of your total course grade.
+* Create a reading response tab on your website. Make sure posts are time-stamped. 
+
