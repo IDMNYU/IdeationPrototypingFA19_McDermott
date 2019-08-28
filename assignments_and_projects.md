@@ -1,7 +1,8 @@
-### DM-UY 1143 Ideation and Prototyping
-##### Fall 2018 • Kathleen McDermott • Wednesdays • 6:30-10:10pm • MAGNET 817
+### DM-UY 1143-E Ideation and Prototyping
 
-# Assignments
+# Assignments and Projects Overview
+
+## Assignments
 
 * [Constant Output](constant_output_choices.md)
 * [Process Website](process_website.md)
@@ -13,6 +14,6 @@
 * [Attend a lecture, talk or exhibition](attend_a_lecture.md)
 * [Reading Responses](reading_responses.md)
 
-
+## Projects 
 
 
