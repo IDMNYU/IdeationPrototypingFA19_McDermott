@@ -1,38 +1,35 @@
-# DM-UY 1143 D Ideation and Prototyping
+# DM-UY 1143 E Ideation and Prototyping
 ![NYU](http://archive.engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Kathleen McDermott • kmcdermott@nyu.edu • Fall 2018 
-    Wednesdays • 6:30PM-10:10PM • 2 Metrotech Center MAGNET 817 • 3 credit hrs     
+    Kathleen McDermott • kmcdermott@nyu.edu • Fall 2018 • 3 Credit Hours
+    Mondays and Wednesdays • 10:30 AM - 12:20 PM • Room 307@ 370 Jay Street
+    
 
 #### Office hours by appointment 
 
-#### Additional Course Management Site: NYU Classes
+#### Additional Course Management Site: [Slack](https://app.slack.com/client/TMM8XA9UH/CMT6FMZ6Y)
 
-#### [Link to full Syllabus PDF](https://wp.nyu.edu/criticalwearables/wp-content/uploads/sites/11961/2018/09/IDEATIONPROTOTYPING_McDermott2.pdf)
-This document may be updated to reflect changes in the course schedule and content. Please check back regularly. Last update to this link was 09/05/2018.  
+#### [Link to full Syllabus PDF (NYU ONLY)](https://drive.google.com/file/d/1WPc5d1A2CTXPCrkZv3x8KOpvARbzGzWP/view?usp=sharing)
+This document may be updated to reflect changes in the course schedule and content. Please check back regularly. Last update to this link was 08/29/2019.  
 
 #### Assignments
-* [Constant Output](constant_output_choices.md)
+* [Constant Output](constant_output.md)
 * [Process Website](process_website.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
-* [Personal Inventory](personal_inventory.md)
-* [Day in The Life Media Study](day_in_the_life.md)
-* [Object Redesign Lasercut](lasercut.md)
-* [Classmate Input Map](classmate_discovery.md)
-* [Attend a lecture, talk or exhibition](attend_a_lecture.md)
 * [Reading Responses](reading_responses.md)
+* [Self-Portrait Video](video_portrait.md)
+* [Laser cut tool box](lasercut.md)
+* [Fluxus Instruction Score](fluxus.md)
+* [Collaborative Output](collaborative_Output.md)
+* [Attend a lecture, talk or exhibition](attend_a_lecture.md)
 
 
 #### Projects
-* [Creative Process Presentation & Bibliography](creative_process.md)
+* [Creative Process Presentation & Project](creative_process.md)
 * [City as Site: Research and Prototype](city_as_site.md)
-* [Future Dystopia / Utopia Project](future.md)
+* [Seatbelts for Technology](seatbelts.md)
 
-
-#### Labs
-* Policy on [Labs in general](labs.md)
-* Also check the syllabus and weekly posting for more specific break-down of what will be covered the following week.
 
 #### Readings
 * Information on how to access texts can be found at [readings.md](readings.md)
