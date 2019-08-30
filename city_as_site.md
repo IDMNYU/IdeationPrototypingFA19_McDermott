@@ -1,8 +1,7 @@
 # City as Site: Research and Prototype 
 
 ### Part 01: 
-Identify an area or aspect of infrastructure or public space in the city to research. 
-Develop and implement a unique research strategy to gain information about your site. Document this process.
+Identify an area or aspect of infrastructure or public space in the city to research. In addition to completing general background research through the library and other secondary sources, develop and implement a unique research strategy to gain information about your site first-hand. Document this process.
 Examples of research strategies may include:
 * Life drawing
 * Photo/video documentation
