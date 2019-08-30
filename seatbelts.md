@@ -3,9 +3,9 @@
 _Individual or Groups of 2_
 
 Choose a common object, tool, or technology as your “site.” Research the history of your chosen object, when was it invented, by whom and how has it changed over the years? Consider how in a utopic or dystopic future scenario, your chosen site may be misused. Design something to help prevent this misuse: for example, ear muffs for Alexa. (Utopic alternative: design a positive use/adaption for a tool that is normally associated with the opposite.) 
--Create studies, tests, and prototypes for early scheduled feedback. 
--Create a final version of the design based on feedback. Document your design in a way that builds a narrative around it. Recommended: staged or manipulated photograph, short video, or GIF.
-
+* Create studies, tests, and prototypes for early scheduled feedback. 
+* Create a final version of the design based on feedback and any further findings from your studies. Document your design in a way that builds a narrative around it. Recommended: staged or manipulated photograph, short video, or GIF.
+* Your final work should be finished and exhibition ready.
 
 ### Documentation: Due the last of class 
 
