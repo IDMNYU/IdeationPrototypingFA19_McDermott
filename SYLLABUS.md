@@ -35,3 +35,6 @@ This document may be updated to reflect changes in the course schedule and conte
 * Information on how to access texts can be found at [readings.md](readings.md)
 * Also check the syllabus and weekly posting for more specific break-down of what will be due the following week.
 
+#### Turning in Work
+
+* All assignments are due one hour before class, and should be posted to your website, unless otherwise stated. Please also post a link to the assignment page on Slack. 
