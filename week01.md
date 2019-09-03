@@ -6,7 +6,7 @@
 #### /Inspiration/
 
 * Introduction to Constant Output Assignment 
-* Introduction to Sketchbook Assignment [Link to slides, NYU ONLY](https://docs.google.com/presentation/d/1dtttcG6Uf2DiAKjUdVnBZNchDK2oUrDPrZEM_6zxL0g/edit?usp=sharing) 
+* Introduction to Sketchbook Assignment [Link to slides, NYU ONLY](https://docs.google.com/presentation/d/18Vk7SYn7Nu-OIRZikSdY49G4PF63goR1PVQWlDCK0SY/edit#slide=id.g35f391192_00) 
 
 #### /Lab/
 
