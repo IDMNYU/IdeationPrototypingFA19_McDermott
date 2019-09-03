@@ -16,7 +16,7 @@
 #### /Assignments/ 
 
 Monday:
-* ASSIGN 01: [Constant Output](constant_output_choices.md) + [process website](Process_Website.md) (due 9/09 and ongoing)
+* ASSIGN 01: [Constant Output](constant_output.md) + [process website](process_website.md) (due 9/09 and ongoing)
 * ASSIGN 02: [Sketchbook](notebook_or_sketchbook.md) (due 9/09)
     * Post links to your website in Slack by 9 AM Monday morning.
 
