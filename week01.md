@@ -8,10 +8,7 @@
 * Introduction to Constant Output Assignment 
 * Introduction to Sketchbook Assignment [Link to slides, NYU ONLY](https://docs.google.com/presentation/d/18Vk7SYn7Nu-OIRZikSdY49G4PF63goR1PVQWlDCK0SY/edit#slide=id.g35f391192_00) 
 
-#### /Lab/
-
-* LAB: Surrealist drawing exercises, still-life drawing exercise. Bring drawing pencils and drawing pad if you have. 
-* Some quick tips on drawing from life [link to slides](https://docs.google.com/presentation/d/1a3rqqQ5Jda9AXP5N590Way0EEMYcZVMsYlIijHaNvuY/edit?usp=sharing)
+* Introduction to Project 01, [Creative Process](creative_process.md)
 
 #### /Assignments/ 
 
@@ -22,4 +19,4 @@ Monday:
 
 Longer Term:
 * REQ READING: Design For the Real World, Chapter 1 (due 9/11) Visit [the readings page](readings.md) for information on how to access the readings, and [reading responses](reading_responses.md) page for more information on how to write your response.
-* Project 01: Part 1, due 9/18
+* Project 01: Part 1, due 9/18. Name of person you are profiling required by Wednesday, 09/11. 
