@@ -12,7 +12,7 @@
 * LAB: Surrealist drawing exercises, still-life drawing exercise. Bring drawing pencils and drawing pad if you have. 
 * Some quick tips on drawing from life [link to slides](https://docs.google.com/presentation/d/1a3rqqQ5Jda9AXP5N590Way0EEMYcZVMsYlIijHaNvuY/edit?usp=sharing)
 
-#### /Assignments for Next Week/
+#### /Assignments for Class/
 
 * Remember to post you 200 word reading response to your website, [Design for the Real World](https://drive.google.com/file/d/1-hOsbIhKOt3e51_DoTJa2wU6X1YKUayb/view?usp=sharing).
 * Post the name of the person you plan to profile for project 01 to your website
