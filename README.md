@@ -1,6 +1,6 @@
 # DM-UY 1143-D Ideation and Prototyping
 
-Ideation and Prototyping (DM-UY 1143), Integrated Digital Media, Tandon School of Engineering, NYU. Fall 2018. Kathleen McDermott, kmcdermott@nyu.edu 
+Ideation and Prototyping (DM-UY 1143), Integrated Digital Media, Tandon School of Engineering, NYU. Fall 2019. Kathleen McDermott, kmcdermott@nyu.edu 
 
 Visit this site regularly for course updates and breakdowns of class schedule.
 
