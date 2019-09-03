@@ -19,4 +19,4 @@ Monday:
 
 Longer Term:
 * REQ READING: Design For the Real World, Chapter 1 (due 9/11) Visit [the readings page](readings.md) for information on how to access the readings, and [reading responses](reading_responses.md) page for more information on how to write your response.
-* Project 01: Part 1, due 9/18. Name of person you are profiling required by Wednesday, 09/11. 
+* Project 01: Part 1, [Creative Process](creative_process.md) due 9/18. Name of person you are profiling required by Wednesday, 09/11. 
