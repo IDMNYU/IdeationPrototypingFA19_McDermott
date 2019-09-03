@@ -2,7 +2,7 @@
 ![NYU](http://archive.engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Kathleen McDermott • kmcdermott@nyu.edu • Fall 2018 • 3 Credit Hours
+    Kathleen McDermott • kmcdermott@nyu.edu • Fall 2019 • 3 Credit Hours
     Mondays and Wednesdays • 10:30 AM - 12:20 PM • Room 307@ 370 Jay Street
     
 
