@@ -14,7 +14,7 @@
 
 #### /Assignments for Class/
 
-* Remember to post you 200 word reading response to your website, [Design for the Real World](https://drive.google.com/file/d/1-hOsbIhKOt3e51_DoTJa2wU6X1YKUayb/view?usp=sharing).
+* Remember to post 200 word reading response to your website, [Design for the Real World](https://drive.google.com/file/d/1-hOsbIhKOt3e51_DoTJa2wU6X1YKUayb/view?usp=sharing).
 * Post the name of the person you plan to profile for project 01 to your website
 
 Longer Term:
