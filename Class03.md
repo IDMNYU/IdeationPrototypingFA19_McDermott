@@ -14,7 +14,7 @@
 * Some quick tips on drawing from life [link to slides](https://docs.google.com/presentation/d/1a3rqqQ5Jda9AXP5N590Way0EEMYcZVMsYlIijHaNvuY/edit?usp=sharing)
 
 
-#### /Assignments for Class/
+#### /Assignments for Next Class/
 
 * Assign 05, [Video Portrait](video_portrait.md) due Monday, 09/16. 
 * Please download a trial of Adobe Illustrator (or creative cloud) for Monday's lab.
