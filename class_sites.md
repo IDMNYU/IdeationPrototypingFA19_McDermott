@@ -1,0 +1,5 @@
+[Kiana](https://ksm492.myportfolio.com/)
+[Frederic](https://fredericchen1435.tumblr.com/)
+[Kaiwen](https://kc3985.wixsite.com/kaiwenchen)
+[Bonnie](https://bc2328.wixsite.com/ideationprototyping)
+[Joy](https://www.joyzarts.com/ideation)
