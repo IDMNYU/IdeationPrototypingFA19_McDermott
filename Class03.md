@@ -16,7 +16,7 @@
 
 #### /Assignments for Class/
 
-* Assign 05, Video Portrait](video_portrait.md) due Monday, 09/16. 
+* Assign 05, [Video Portrait](video_portrait.md) due Monday, 09/16. 
 
 Longer Term:
 * Project 01: Part 1, [Creative Process](creative_process.md) due Wednesday, 9/18.
