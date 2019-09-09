@@ -17,6 +17,7 @@
 #### /Assignments for Class/
 
 * Assign 05, [Video Portrait](video_portrait.md) due Monday, 09/16. 
+* Please download a trial of Adobe Illustrator (or creative cloud) for Monday's lab.
 
 Longer Term:
 * Project 01: Part 1, [Creative Process](creative_process.md) due Wednesday, 9/18.
