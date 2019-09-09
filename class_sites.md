@@ -15,4 +15,4 @@
 * [Ellie](https://e1143.tumblr.com/)
 * [Julia](https://sites.google.com/nyu.edu/juliakim/home?authuser=1&pli=1)
 * [Eric](https://enfinity-delta.tumblr.com/) 
-* [Liam](https://wp.nyu.edu/liamtsang/ target = "_blank")
+* [Liam][go](http://stackoverflow.com){:target="_blank" rel="noopener"} (https://wp.nyu.edu/liamtsang/ target = "_blank")
