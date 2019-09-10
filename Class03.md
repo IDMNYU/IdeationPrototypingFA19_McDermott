@@ -4,13 +4,13 @@
 #### /Inspiration/Research
 
 * Reading discussion
-* Lecture: Design Research Overview
+* Lecture: [Design Research Overview](https://docs.google.com/presentation/d/1UGf2cRX1_iFs5dr76ll7hIAAxrzbX_VrRQJ7F3fX_h8/edit?usp=sharing)
 
 
 #### /Iteration/Prototyping/
 
 * Introduce [Assign 05, Video Portrait](video_portrait.md)
-* LAB (time pending): Surrealist drawing exercises, still-life drawing exercise. Bring drawing pencils and drawing pad if you have. 
+* LAB: Contour Portraits; Surrealist drawing exercises. Bring drawing pencils and drawing pad if you have. 
 
 
 
