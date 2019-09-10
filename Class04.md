@@ -14,4 +14,4 @@
 
 #### /Assignments for next Class/
 
-* Project 01: Part 1, [Creative Process](creative_process.md) due Wednesday, 9/18.
+* Project 01: Part 1, [Creative Process](creative_process.md) due Wednesday, 9/18, (post your bibliography to your website!)
