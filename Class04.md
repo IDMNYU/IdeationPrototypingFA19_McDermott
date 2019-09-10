@@ -9,7 +9,7 @@
 
 #### /Prototyping/
 
-* LAB: Re-design the form of a common object / Illustrator crash course. Please download a student trial of Adobe Creatie Suite if you don't have.
+* LAB: Re-design the form of a common object / Illustrator crash course. Please download a student trial of Adobe Creative Suite if you don't have.
 
 * Patent sites: https://patents.google.com/, http://patft.uspto.gov/, https://patentscope.wipo.int/search/en/search.jsf, https://worldwide.espacenet.com/?locale=en_EP 
 * Bézier Game: https://bezier.method.ac/
