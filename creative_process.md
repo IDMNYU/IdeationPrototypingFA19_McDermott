@@ -6,8 +6,10 @@ The process presentation will reveal the discoveries you made about your subject
 
 **Possible Choices \(but not limited to\):**
 
+* Wes Anderson ---- Julia Kim 
 * Sarah Blakely \(Spanx\)
 * Richard Branson
+* Marcel Breuer ---- Karl 
 * John Cage
 * Coco Chanel 
 * Kyle Cooper
