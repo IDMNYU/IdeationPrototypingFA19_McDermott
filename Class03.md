@@ -10,6 +10,7 @@
 #### /Iteration/Prototyping/
 
 * Introduce [Assign 05, Video Portrait](video_portrait.md)
+* Schedule check
 * LAB: Contour Portraits; Surrealist drawing exercises. Bring drawing pencils and drawing pad if you have. 
 
 
