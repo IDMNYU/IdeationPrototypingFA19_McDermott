@@ -7,18 +7,19 @@ The process presentation will reveal the discoveries you made about your subject
 **Possible Choices \(but not limited to\):**
 
 * Wes Anderson ---- Julia Kim 
-* Sarah Blakely \(Spanx\)
+* Sarah Blakely \(Spanx\) . ---- Caroline
 * Richard Branson
 * Marcel Breuer ---- Karl 
+* Tim Burton ---- Frederic 
 * John Cage
 * Coco Chanel 
 * Kyle Cooper
 * Thomas Edison 
 * Albert Einstein
 * Leonardo Da Vinci --- Ellie 
-* Salvador Dali 
+* Salvador Dali ---- Liam
 * Charles Darwin
-* Walt Disney   ---- Ty
+* Walt Disney  
 * Wensheng Dong  ---- Kaiwen Chen
 * Charles & Ray Eames
 * Federico Fellini
@@ -31,15 +32,17 @@ The process presentation will reveal the discoveries you made about your subject
 * Jonathan Ive
 * Frida Kahlo 
 * Yayoi Kusama
-* Hideo Kojima 
+* Hideo Kojima ----- Eric
 * Koji Kondo ---- Sofia 
 * Sal Khan \(Khan Academy\)
 * Stephen King 
 * [Paul Klee](http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html)
+* Spike Lee ------ Ashli 
 * David Lynch
 * Henri Matisse  ---- Mikayla
 * Hayao Miyazaki ---- Irene 
 * Henry Miller ---- Fiona 
+* Takashi Murakami --- Katrina
 * Christopher Nolan 
 * Gordon Parks
 * Philippe Petit
@@ -48,13 +51,14 @@ The process presentation will reveal the discoveries you made about your subject
 * Robert Rodriguez
 * Mike Rottenberg 
 * Paula Scher
-* Georges Seurat ---- Caroline
+* Georges Seurat 
 * David Shrigley 
 * SWOON
+* Quentin Tarantino ---- Ty
 * Osamu Tezuka --- Joy
 * Twyla Tharp
 * Christina Tosi 
-* Andy Warhol ---- Kiana 
+* Andy Warhol ---- Kiana, Bonnie
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give you insights into the research and design processes of your subject.
 
