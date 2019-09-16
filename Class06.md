@@ -5,7 +5,7 @@
 
 
 * Maker Space Training (subject to change)
-* REQ Reading Discussion: [Miseducation of the Doodle](https://alistapart.com/article/the-miseducation-of-the-doodle) and [Sketching: The Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool): Response Due Mon, 09/23
+* REQ Reading Discussion: [Miseducation of the Doodle](https://alistapart.com/article/the-miseducation-of-the-doodle) and [Sketching: The Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool)
 * Discuss Assign 6
 
 
