@@ -81,6 +81,8 @@ You can access NYU Tandon’s Bern Dibner Library here: [http://library.poly.edu
 
 Now that you have studied the process of the creator of your choice, make it your own. Apply their process to the creative output of your choosing. For example, if you have chosen to research Edison, who made hundreds of iterations before creating the electric lightbulb, you may choose to create 10 iterations of a design for a wind-powered tablet, and build one. If you have chosen Salvador Dalí, whose process included awaking himself from sleep repeatedly before painting, you may apply that process to a graphic design project. Your final outcome should be finished and exhibition ready.  
 
-**Part 02 Due date: 09/23**
+Unless you have requested and received an OK from me, this should not be a powerpoint. The format of your work should allow it stand on its own, outside a presentation context. 
+
+**Part 02 Due date: 09/30** (updated 9/18)
 
 
