@@ -11,5 +11,5 @@
 
 * [Creative Process](creative_process.md) Part 2: Due Monday, 09/30 [[[Make/Create/Produce something!!!]]
 
-* Make sure your website and constant output posts are up to date. You may make your own sign and attend [Climate Strike Friday](https://globalclimatestrike.net/) in lieu of your normal contant output post.
+* Make sure your website and constant output posts are up to date. Optional: You may make your own sign and attend [Climate Strike Friday](https://globalclimatestrike.net/) in lieu of your normal contant output post.
 
