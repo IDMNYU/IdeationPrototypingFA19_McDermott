@@ -3,7 +3,7 @@
 
 #### /Iteration/Prototyping/
 
-* Critique [Creative Process](creative_process.md) Part 2: Due. Bring in your finished, exhibition-ready (or viewing/reading-ready) work. 
+* Critique [Creative Process](creative_process.md) Part 2. Bring in your finished, exhibition-ready (or viewing/reading-ready) work. 
 Unless you have requested an exception and received an ok from me, this should NOT be a powerpoint presentation.
 
 
