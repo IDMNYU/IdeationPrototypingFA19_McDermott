@@ -10,7 +10,7 @@
 
 #### /Iteration/Prototyping
 
-* Lecture: Design Research Methods
+* Lecture: Design Research Methods, part 2
 
 
 #### /ASSIGNMENTS FOR NEXT CLASS
