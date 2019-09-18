@@ -1,4 +1,4 @@
- Class 08, 09/30 (Monday)
+ # Class 08, 09/30 (Monday)
 
 
 #### /Iteration/Prototyping
