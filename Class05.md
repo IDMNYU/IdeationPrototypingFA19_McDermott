@@ -9,6 +9,6 @@
 
 * REQ Reading 2: [Miseducation of the Doodle](https://alistapart.com/article/the-miseducation-of-the-doodle) and [Sketching: The Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool): Response Due Mon, 09/23
 
-* [Creative Process](creative_process.md) Part 2: Due Wed, 09/25 [[[Make something!!!]]
+* [Creative Process](creative_process.md) Part 2: Due Monday, 09/30 [[[Make/Create/Produce something!!!]]
 
 
