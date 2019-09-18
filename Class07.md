@@ -8,7 +8,7 @@
 * Discuss Assign 6
 
 
-#### /ASSIGNMENTS FOR NEXT WEEK
+#### /ASSIGNMENTS FOR NEXT WEEK/
 
 
 * [Creative Process](creative_process.md) Part 2: Due Monday, 09/30 Bring in your finished, exhibition-ready (or viewing/reading-ready) work. 
