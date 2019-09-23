@@ -8,7 +8,7 @@
 
 * REQ Reading Discussion: [Miseducation of the Doodle](https://alistapart.com/article/the-miseducation-of-the-doodle) and [Sketching: The Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool)
 
-* Equipment room open open
+* Equipment room open 
 
 #### /Iteration/Prototyping
 
