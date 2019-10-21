@@ -10,8 +10,8 @@
 
 #### Additional Course Management Site: [Slack](https://app.slack.com/client/TMM8XA9UH/CMT6FMZ6Y)
 
-#### [Link to full Syllabus PDF (NYU ONLY)](https://drive.google.com/file/d/10lrToQst3vkOKNZr8AXEFpwsCVb5_8dJ/view?usp=sharing)
-This document may be updated to reflect changes in the course schedule and content. Please check back regularly. Last update to this link was 09/18/2019.  
+#### [Link to full Syllabus PDF (NYU ONLY)](https://drive.google.com/file/d/1gMmKnC_JFARYJfIdHq62lkxRImFnHPEL/view?usp=sharing)
+This document may be updated to reflect changes in the course schedule and content. Please check back regularly. Last update to this link was 10/21/2019.  
 
 #### Assignments
 * [Constant Output](constant_output.md)
