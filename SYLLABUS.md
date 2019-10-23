@@ -6,7 +6,7 @@
     Mondays and Wednesdays • 10:30 AM - 12:20 PM • Room 307@ 370 Jay Street
     
 
-#### Office hours by appointment 
+#### [Office hours by appointment ](https://calendar.google.com/calendar/selfsched?sstoken=UUl6ZHRicC1jSXBVfGRlZmF1bHR8OTdkZDlmZTU0N2E4NzZiZTUxZjQ5YjgwYjg5M2NmY2Q)
 
 #### Additional Course Management Site: [Slack](https://app.slack.com/client/TMM8XA9UH/CMT6FMZ6Y)
 
