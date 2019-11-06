@@ -4,7 +4,7 @@ _Individual or Groups of 2_
 
 Choose a common object, tool, or technology as your “site.” Research the history of your chosen object, when was it invented, by whom and how has it changed over the years? 
 
-A. "Cradle to Grave." Pick a durable household product, something that gets a lot of consistent use. Spend time researching it and analyzing it. How is it made? How does the process start? How does it end? How long does it last? 
+A. "Cradle to Grave." Spend time researching it and analyzing your object, tool, or technology. How is it made? How does the process start? How does it end? How long does it last? 
 
 Represent the product life cycle visually in a way that is easy to comprehend. Represent its use of material resources, its deterioration, its birth, from cradle to grave in a way that is accessible and in a digestible format. 
 
