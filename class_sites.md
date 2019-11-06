@@ -10,7 +10,7 @@
 * [Caroline](https://cmche.tumblr.com/)
 * [Ashli](https://ashlib.wixsite.com/mysite)
 * [Katrina](https://wp.nyu.edu/katrinamber/)
-* [Mikayla](http://mikaylamayumi.com/constantoutput)
+* [Mikayla](http://mikaylamayumi.com/ideation)
 * [Ty](https://wp.nyu.edu/tywenrick2019ideationandprotoyping/)
 * [Ellie](https://e1143.tumblr.com/)
 * [Julia](https://sites.google.com/nyu.edu/juliakim/home?authuser=1&pli=1)
