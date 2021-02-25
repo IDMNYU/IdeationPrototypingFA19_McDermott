@@ -13,6 +13,8 @@ Examples of research strategies may include:
 For more research strategy ideas, refer to Ideo's [Human-centered design guide.](https://www.ideo.com/post/design-kit) 
 You may also reference artistic research projects such as Miranda July's [Learning to Love You More](http://learningtoloveyoumore.com/)
 
+Due 03/15
+
 ### Part 02:
 Produce a design for the site which builds on an existing landmark or infrastructure, modifying it, or allowing it to have a double function. 
 (For example: stoplights, fire hydrants, statues, parking garages). 
@@ -27,3 +29,5 @@ Examples/Inspiration:
 * [Natalie Jeremijenko amphibious architecture](http://www.spontaneousinterventions.org/project/amphibious-architecture)
 * [Kate Orf Oyster-tecture](https://www.6sqft.com/living-breakwaters-an-award-winning-project-brings-oyster-tecture-to-the-shores-of-staten-island/)
 * [Michelle Teran Life: A User's Manual](http://www.ubermatic.org/?p=221) 
+
+Due 04/05 
